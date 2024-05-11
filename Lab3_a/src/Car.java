@@ -41,7 +41,7 @@ public class Car {
         Car car = new Car(make, model, year, color);
         car.displayInfo();
 
-        System.out.println("\n name:Lena Akter \n Enrollment: 92301703076 \n Section:2EC1 \n lab-batch: C");
+        System.out.println("\n name: \n Enrollment:  \n Section: \n lab-batch: ");
 
         scanner.close();
     }
