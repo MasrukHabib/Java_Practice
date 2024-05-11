@@ -42,6 +42,6 @@ public class Employee {
         E2.getData();
         System.out.println("Data for Employee E2:");
         E2.printData();
-        System.out.println("\n name:Lena Akter \n Enrollment: 92301703076 \n Section:2EC1 \n lab-batch: C");
+        System.out.println("\n name: \n Enrollment:  \n Section: \n lab-batch: ")
     }
 }
