@@ -34,6 +34,6 @@ public class Main {
         shape.draw();
         circle.draw();
         rectangle.draw();
-        System.out.println("\n name:Lena Akter \n Enrollment: 92301703076 \n Section:2EC1 \n lab-batch: C");
+       System.out.println("\n name: \n Enrollment:  \n Section: \n lab-batch: ")
     }
 }
