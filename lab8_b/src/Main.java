@@ -64,6 +64,5 @@ public class Main {
 
         System.out.println("\nWorker details:");
         worker.displayDetails();
-        System.out.println("\n name:Lena Akter \n Enrollment: 92301703076 \n Section:2EC1 \n lab-batch: C");
     }
 }
