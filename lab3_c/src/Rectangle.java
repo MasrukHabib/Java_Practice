@@ -46,6 +46,6 @@ public class Rectangle {
 
         // Calculate and display perimeter
         System.out.println("Perimeter of rectangle: " + rectangle.calculatePerimeter());
-        System.out.println("\n name:Lena Akter \n Enrollment: 92301703076 \n Section:2EC1 \n lab-batch: C");
+
     }
 }
