@@ -24,7 +24,7 @@ public class Student {
     // Main method for testing (optional)
     public static void main(String[] args) {
         // Create Student objects
-        Student s1 = new Student("John", "New York", 20);
+        Student s1 = new Student("Habib", "New York", 20);
         Student s2 = new Student("Alice", "London", 22);
 
         // Display data for s1 and s2
