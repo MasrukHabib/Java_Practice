@@ -34,7 +34,6 @@ public class StudentGrading {
         } else {
             System.out.println("Grade: Fail");
         }
-
         // Close the scanner
         scanner.close();
     }
