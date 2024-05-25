@@ -56,7 +56,7 @@ public class Main {
         // Create a Manager object
         Manager manager = new Manager("Habib", 101, 5000, "Sales");
         // Create a Worker object
-        Worker worker = new Worker("Lena", 102, 3000, 45);
+        Worker worker = new Worker("jim", 102, 3000, 45);
 
         // Display details of each employee
         System.out.println("Manager details:");
