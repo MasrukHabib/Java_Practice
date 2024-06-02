@@ -32,17 +32,13 @@ public class Car {
 
         System.out.print("Enter year of the car: ");
         int year = scanner.nextInt();
-
         scanner.nextLine(); // consume newline character
 
         System.out.print("Enter color of the car: ");
         String color = scanner.nextLine();
-
         Car car = new Car(make, model, year, color);
         car.displayInfo();
-
         System.out.println("\n name: \n Enrollment:  \n Section: \n lab-batch: ");
-
         scanner.close();
     }
 }
