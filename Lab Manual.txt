@@ -63,6 +63,7 @@ a.	Create a Java program to illustrate the concept of abstract classes and subcl
 b.	Develop a Java program to manage employee records. Define an abstract class Employee with the following attributes and methods:
 Attributes: name (String), employeeId (integer), salary (double)
 Methods: Abstract method calculateBonus() to calculate the bonus for the employee. Method displayDetails() to display the name, employee ID, salary, and bonus. Implement two concrete subclasses of Employee: Manager and Worker. Manager should have an additional attribute department (String) and should implement the calculateBonus() method to calculate bonus based on a percentage of the salary. Worker should have an additional attribute hoursWorked (integer) and should implement the calculateBonus() method to calculate bonus based on overtime hours worked.
+
 In the main() method: 
 •	Create an object of class Manager with name "John Smith", employee ID 101, salary $5000, department "Sales".
 •	Create an object of class Worker with name "Emily Johnson", employee ID 102, salary $3000, and hours worked 45.
