@@ -11,7 +11,7 @@ public class lab1_b {
         double area = 0.5 * base * height;
 
         System.out.println("Area of the triangle: " + area);
-        System.out.println("\n name: \n Enrollment:  \n Section: \n lab-batch: ");
+        System.out.println("\n name:Masruk Habib \n Enrollment:  \n Section: \n lab-batch: ");
         scanner.close();
     }
 }
