@@ -15,3 +15,5 @@ public class lab1_b {
         scanner.close();
     }
 }
+
+
