@@ -61,6 +61,6 @@ public class Main {
         // Calculate and display the area of each shape
         System.out.println("Area of Rectangle: " + rectangle.area());
         System.out.println("Area of Circle: " + circle.area());
-        System.out.println("\n name:Lena Akter \n Enrollment: 92301703076 \n Section:2EC1 \n lab-batch: C");
+        System.out.println("\n name:Lena Akter \n Enrollment: \n Section:2EC1 \n lab-batch: C");
     }
 }
